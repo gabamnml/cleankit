@@ -1,0 +1,25 @@
+{
+  "name": "cleanup",
+  "version": "1.0.0",
+  "description": "remove node modules",
+  "main": "cli.js",
+  "type": "module",
+  "keywords": [
+    "cleanup",
+    "develop",
+    "toolkit",
+    "programming",
+    "nodemodules"
+  ],
+  "author": "gabamnml",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.1.2",
+    "inquirer": "^9.1.4",
+    "ora": "^6.1.2",
+    "shelljs": "^0.8.5"
+  },
+  "bin": {
+    "cleanup": "./cli.js"
+  }
+}
