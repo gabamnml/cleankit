@@ -1,6 +1,6 @@
 {
   "name": "cleankit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Remove node modules you are not using in another paused or finished projects and other developer files",
   "main": "cli.js",
   "type": "module",
