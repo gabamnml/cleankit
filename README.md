@@ -1,5 +1,5 @@
 <div align="center">
-	![cleankit logo](https://github.com/gabamnml/cleankit/blob/main/statics/cleanup-logo.jpg?raw=true)
+	![cleankit logo](https://github.com/gabamnml/cleankit/blob/main/statics/cleanup-logo.png?raw=true)
 
 [![npm version](https://badgen.net/npm/v/cleankit)](https://www.npmjs.com/package/cleankit)
 [![Downloads](https://badgen.net/npm/dt/cleankit)](https://www.npmjs.com/package/cleankit)
