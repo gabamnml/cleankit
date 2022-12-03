@@ -1,8 +1,8 @@
 <div align="center">
 	<img width="320" src="./statics/cleanup-logo.png" alt="cleanup">
 
-[![npm dependents](https://badgen.net/npm/dependents/clean-up)](https://www.npmjs.com/package/clean-up?activeTab=dependents)
-[![Downloads](https://badgen.net/npm/dt/clean-up)](https://www.npmjs.com/package/clean-up)
+[![npm dependents](https://badgen.net/npm/dependents/cleankit)](https://www.npmjs.com/package/cleankit?activeTab=dependents)
+[![Downloads](https://badgen.net/npm/dt/cleankit)](https://www.npmjs.com/package/clean-up)
 </div>
 
 <div align="center">
@@ -21,7 +21,7 @@ Safely and quickly delete unnecessary files that accumulate while working as a t
 ## Install
 
 ```sh
-npm install clean-up -g
+npm install cleankit -g
 ```
 
 don't forget to add -g param to save as a global package for to be able to use it in any directory.  

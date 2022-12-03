@@ -12,7 +12,7 @@ import { prompts } from './prompt.js';
 const filesSpin = ora(`Getting files please wait... ${chalk.dim('(This may take longer than usual depending on the number of files)')}`);
 const deleteSpin = ora('Deleting files...');
 
-console.log(`======|| ${chalk.redBright.underline('Cleanup')} v${chalk.dim.italic(info.version)} ||======\n`);
+console.log(`======|| ${chalk.redBright.underline('Cleankit')} v${chalk.dim.italic(info.version)} ||======\n`);
 console.log(`${chalk.dim.italic("This program is designed and intended to remove completely safe files,")}`); 
 console.log(`${chalk.dim.italic("however, check carefully if you need them.")}\n`);
 filesSpin.start();
