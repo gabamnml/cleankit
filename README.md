@@ -1,9 +1,9 @@
 <div align="center">
 	<img width="320" src="./statics/cleanup-logo.png" alt="cleanup">
-</div>
 
 [![npm dependents](https://badgen.net/npm/dependents/cleanup)](https://www.npmjs.com/package/cleanup?activeTab=dependents)
 [![Downloads](https://badgen.net/npm/dt/cleanup)](https://www.npmjs.com/package/cleanup)
+</div>
 
 <div align="center">
     <p>
@@ -16,12 +16,12 @@
 If you are programming and meanwhile you are bored of having to deal with the space occupied by dependencies that you are not currently using in your projects, Cleanup is for you! 
 Safely and quickly delete unnecessary files that accumulate while working as a true developer.
 
-[//]: <> TODO: Upload a gif/video tutorial
+<!--- TODO: Upload a gif/video tutorial --->
 
 ## Install
 
 ```sh
-npm install cleanup -g
+npm install clean-up -g
 ```
 
 don't forget to add -g param to save as a global package for to be able to use it in any directory.  

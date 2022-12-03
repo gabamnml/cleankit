@@ -1,15 +1,17 @@
 {
-  "name": "cleanup",
+  "name": "clean-up",
   "version": "1.0.0",
-  "description": "remove node modules",
+  "description": "Remove node modules you are not using in another paused or finished projects and other developer files",
   "main": "cli.js",
   "type": "module",
   "keywords": [
+    "clean-up",
     "cleanup",
     "develop",
     "toolkit",
     "programming",
-    "nodemodules"
+    "nodemodules",
+    "cli"
   ],
   "author": "gabamnml",
   "license": "ISC",
