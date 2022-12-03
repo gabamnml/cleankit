@@ -2,7 +2,7 @@
 	<img width="320" src="./statics/cleanup-logo.png" alt="cleanup">
 
 [![npm dependents](https://badgen.net/npm/dependents/cleankit)](https://www.npmjs.com/package/cleankit?activeTab=dependents)
-[![Downloads](https://badgen.net/npm/dt/cleankit)](https://www.npmjs.com/package/clean-up)
+[![Downloads](https://badgen.net/npm/dt/cleankit)](https://www.npmjs.com/package/cleankit)
 </div>
 
 <div align="center">
