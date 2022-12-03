@@ -1,8 +1,8 @@
 <div align="center">
 	<img width="320" src="./statics/cleanup-logo.png" alt="cleanup">
 
-[![npm dependents](https://badgen.net/npm/dependents/cleanup)](https://www.npmjs.com/package/cleanup?activeTab=dependents)
-[![Downloads](https://badgen.net/npm/dt/cleanup)](https://www.npmjs.com/package/cleanup)
+[![npm dependents](https://badgen.net/npm/dependents/clean-up)](https://www.npmjs.com/package/clean-up?activeTab=dependents)
+[![Downloads](https://badgen.net/npm/dt/clean-up)](https://www.npmjs.com/package/clean-up)
 </div>
 
 <div align="center">
