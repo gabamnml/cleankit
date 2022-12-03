@@ -1,8 +1,7 @@
 <div align="center">
-	<img width="320" src="./statics/cleanup-logo.png" alt="cleanup">
+	![cleankit logo](https://github.com/gabamnml/cleankit/blob/main/statics/cleanup-logo.jpg?raw=true)
 
 [![npm version](https://badgen.net/npm/v/cleankit)](https://www.npmjs.com/package/cleankit)
-[![npm dependents](https://badgen.net/npm/dependents/cleankit)](https://www.npmjs.com/package/cleankit?activeTab=dependents)
 [![Downloads](https://badgen.net/npm/dt/cleankit)](https://www.npmjs.com/package/cleankit)
 [![npm license](https://badgen.net/npm/license/cleankit)](https://www.npmjs.com/package/cleankit)
 </div>
